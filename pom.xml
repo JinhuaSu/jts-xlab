@@ -48,7 +48,8 @@
         <lint>unchecked</lint>
         <!-- none, accessibility, html, missing, reference, syntax, all -->
         <doclint>none</doclint>
-        <jts.version>1.16.1</jts.version>
+<!--        <jts.version>1.16.1</jts.version>-->
+        <jts.version>1.20.0-SNAPSHOT</jts.version>
     </properties>
 
     <!-- PROJECT INFORMATION -->
